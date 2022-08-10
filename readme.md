@@ -9,3 +9,6 @@ A python gui that executes puppeteer scripts
 - PySimpleGui
 - Puppeteer
 
+## Deployment
+- Install puppeteer, pysimplegui
+- Run the start.sh bash script or pup-scripts.py
